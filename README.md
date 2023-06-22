@@ -1,3 +1,5 @@
+# Deployed url :- clothies.netlify.app/
+
 # Welcome to Clothy
 <h3>Clothy is a E-Commerce WebSite Where We Can Buy Different Categories of Products.</h3>
 
